@@ -20,7 +20,7 @@ To get started with this project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo-link.git
+   git clone https://github.com/RW2023/fer
 Install Dependencies
 bash
 Copy code
