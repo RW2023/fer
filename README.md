@@ -58,6 +58,17 @@ Let's keep our community welcoming and inclusive. Please read and follow our Cod
 License 📄
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+## Contributing 🤝
+
+We encourage contributions from everyone! If you're looking to contribute, please follow the guidelines outlined in our [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+
+To get started:
+
+1. **Fork the Repository**
+2. **Create a Feature Branch**
+   ```bash
+   git checkout -b new-feature
+
 Let's Connect! 🌍
 [Join our Discord community](https://discord.gg/tjFkBJYEaP) to discuss the project, share ideas, and collaborate.
 Happy Coding! 💻🎉
