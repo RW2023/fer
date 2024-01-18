@@ -6,6 +6,9 @@ Welcome to the Front-End Resource Hub project! This is a community-driven initia
 
 The Front-End Resource Hub is built using React, ensuring a dynamic and responsive user experience. For styling, we're leveraging Tailwind CSS, which will give us the flexibility and efficiency to create a sleek and modern UI. This project is not just about building a resource hub; it's about learning, collaborating, and growing together as a community. 🤝
 
+You can view the project's progress and details on our [GitHub Project page](https://github.com/users/RW2023/projects/17).
+
+
 ## Key Features 🌟
 
 - **Resource Catalog**: A vast collection of front-end development resources, including tutorials, tools, libraries, and best practices.
