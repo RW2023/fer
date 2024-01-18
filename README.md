@@ -56,8 +56,7 @@ License 📄
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Let's Connect! 🌍
-Join our Discord community to discuss the project, share ideas, and collaborate. Join Discord
-
+Join our Discord community to discuss the project, share ideas, and collaborate. [Join Discord](https://discord.gg/tjFkBJYEaP)
 Happy Coding! 💻🎉
 
 
