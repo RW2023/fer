@@ -31,6 +31,7 @@ Copy code
 npm start
 
 This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
+
 Contributing 🤝
 We encourage contributions from everyone! If you're looking to contribute, please:
 
