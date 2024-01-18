@@ -60,7 +60,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contributing 🤝
 
-We encourage contributions from everyone! If you're looking to contribute, please follow the guidelines outlined in our [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+We encourage contributions from everyone! If you're looking to contribute, please follow the guidelines outlined in our [CONTRIBUTING.md](https://github.com/RW2023/fer/blob/main/CONTRIBUTING.MD) file.
+
 
 To get started:
 
